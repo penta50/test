@@ -11,6 +11,6 @@ dir  = os.environ['USERPROFILE'] + "\\logfile\\" + todfolder + "\\"
 if not os.path.exists(dir):
      os.mkdir(dir)
 else:
-     print("フォルダ0000001あり")
+     print("フォルダ00000001あり")
 
 
